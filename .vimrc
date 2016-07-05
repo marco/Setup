@@ -20,6 +20,8 @@ set guioptions-=r
 " set up cursor correctly (to never blink and always be a block)
 set guicursor=a:block-Cursor
 set guicursor+=a:blinkon0
+" always show tab bar
+set showtabline=2
 
 """ Editing
 
