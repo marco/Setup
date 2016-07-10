@@ -29,6 +29,8 @@ set showtabline=2
 set tabstop=2
 " tab width for editing soft tabs
 set softtabstop=2
+" tab width for automatic tabs
+set shiftwidth=2
 " make all tabs soft tabs
 set expandtab
 " allows searching per character
